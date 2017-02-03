@@ -1,0 +1,7 @@
+db:
+  driver: pdo_mysql
+  server: localhost
+  charset: utf8
+  nameDataBase: ~
+  user: ~
+  password: ~
