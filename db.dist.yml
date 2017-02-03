@@ -1,6 +1,0 @@
-db:
-  driver: pdo_mysql
-  server: localhost
-  name: ~
-  user: ~
-  password: ~
